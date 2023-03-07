@@ -12,12 +12,9 @@
     }
 }
 
-
-
 @media (max-width:770px) {
     body {
         background: no-repeat center/cover url("../assets/images/bg-mobile.svg") $Violet;
-
     }
 
     header {
@@ -43,6 +40,10 @@
                 font-size: 2rem;
             }
         }
+    }
+
+    .social-icon {
+        text-align: center !important;
     }
 }
 
